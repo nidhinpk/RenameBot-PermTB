@@ -6,7 +6,7 @@ class Translation(object):
     RENAME_403_ERR = "What Are You Doing? You are Banned"
     ABS_TEXT = "What Are You Trying To Do,Mate?"
     UPGRADE_TEXT = "CONTACT @princedaitt"
-    DOWNLOAD_START = "Downloading...Give Me Some Time Bruh Join@Cinemaglitz❤️!!"
+    DOWNLOAD_START = "Downloading...Give Me Some Time Bruh Join *@Cinemaglitz*❤️!!"
     UPLOAD_START = "Hurray... Completed Downloading"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It?"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me JOin > @Cinemaglitz ❤️**"
@@ -17,7 +17,7 @@ class Translation(object):
     DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully 😎"
-    CUSTOM_CAPTION_UL_FILE = "{Newname.extn} "
+    CUSTOM_CAPTION_UL_FILE = "*Renamed by @CG_renamerbot*"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found,SED🤒"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """It's not that complicated😅
