@@ -9,7 +9,7 @@ class Translation(object):
     DOWNLOAD_START = "Your request added to the queue!" 
     UPLOAD_START = "Processing the request...."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It?"
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me JOin > @Cinemaglitz ❤️**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me ©team cinema factory**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
     NOT_AUTH_USER_TEXT = "CONTACT @berlinhere"
     NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @berlinhere"
