@@ -20,5 +20,5 @@ class Translation(object):
     CUSTOM_CAPTION_UL_FILE = "*Renamed by @CG_renamerbot*"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found,SED🤒"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-    HELP_USER = """bot made by cinema factory 
+    HELP_USER = """bot made by cinema factory "
     
